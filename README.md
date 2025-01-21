@@ -37,13 +37,13 @@ pip install -r requirements.txt
 
 ### Passos para Execução
 Clone este repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/GuihDM-dev/car-color-recognition.git
+cd car-color-recognition
 Execute Todo o codigo no google collab
 
 
 ### Exemplo de Uso
-Carregue uma imagem contendo veículos.
+Carregue uma imagem contendo veículos nas cores, Branco, Preto, Cinza, Vermelho ou Azul.
 Aguarde o processamento do modelo.
 Veja a imagem anotada com os veículos detectados e suas cores, além de métricas como confiança.
 
