@@ -1,0 +1,5 @@
+train: C:\Users\guilh\OneDrive\Documentos\GitHub\car-color-recognition\notebooks\yolo_dataset\images\train
+val: C:\Users\guilh\OneDrive\Documentos\GitHub\car-color-recognition\notebooks\yolo_dataset\images\val
+test: C:\Users\guilh\OneDrive\Documentos\GitHub\car-color-recognition\notebooks\yolo_dataset\images\test
+nc: 7
+names: ['white', 'black', 'red', 'yellow', 'silver', 'blue', 'green']
